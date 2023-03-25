@@ -1,0 +1,12 @@
+# Radius around the center of the drop party where items will be dropped
+radius: 10
+
+max_items: 10
+
+# List of items to drop during the party
+items:
+  - diamond
+  - gold_ingot
+  - iron_ingot
+  - emerald
+
